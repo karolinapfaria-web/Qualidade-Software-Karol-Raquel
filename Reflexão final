@@ -1,0 +1,11 @@
+É possível garantir qualidade sem versionamento?
+Sem versionamento, ha mais risco de erros, perda de arquivos e falta de controle das mudanças;
+
+O que acontece se duas pessoas alterarem o mesmo arquivo?
+Pode ocorrer conflito de versões, exigindo comparação e ajuste manual das alterações;
+
+Como o GitHub ajuda em auditorias?
+Mantém histórico detalhado de mudanças, autores e datas;
+
+Versionamento impacta na confiabilidade do software?
+Impacta. Ele aumenta a segurança, organização e possibilidade de corrigir erros rapidamente.
