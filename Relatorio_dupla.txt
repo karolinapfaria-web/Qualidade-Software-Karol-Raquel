@@ -1,1 +1,24 @@
+Dificuldades encontradas: Lidar com interface em lingua estrangeira;
+Aprender a utilizar a interface e suas funcoes do zero.
 
+
+Como o controle de versao ajuda a evitar erros: permite voltar atras e reverter a acao;
+permite alteracoes em branches separadas;
+permite testar auteracoes em branches.
+Em resumo, organiza, reduz dificuldades e corrige erros.
+
+Como os commits ajudam na rastraeabilidade?
+Registra cada alteracao;
+Identificam a mudanca; 
+Permitem comparar versoes;
+possibilita voltar a um ponto especifico.
+
+Qual a importancia do historico de alteracoes: Acompanhar a evolucao do projeto;
+Saber quem fez cada modificacao;
+recuperar versoes anteriores; 
+facilitar o trabalho em equipe.
+
+Como o GitHub pode melhorar a qualidade de software: Permite revisao de codigo;
+Facilita a identificacao de erros;
+Organiza o trabalho em equipe;
+Permite registrar e acompanhar problemas.
